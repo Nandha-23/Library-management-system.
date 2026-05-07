@@ -1,6 +1,7 @@
 package library.model;
 
 public class Book {
+    //Encapsulation concepts used
 
     private int id;
     private String title;

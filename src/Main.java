@@ -46,8 +46,10 @@ public class Main {
                     break;
 
                 case 4:
-                    System.out.println("Thank you! Exiting...");
-                    System.exit(0);
+                    System.out.println("Thank you!...  Visit again");
+                    System.exit(
+
+                            0);
 
                 default:
                     System.out.println("Invalid choice!");
